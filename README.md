@@ -9,7 +9,7 @@ It provides key business insights into flight frequency, profitability, route ef
 
 > To analyze 30,000+ flight records and uncover insights that help stakeholders optimize route planning, maximize profitability, and monitor trends through interactive dashboards.
 
----
+--- --<img src="Sky-Routes_Dashborad.png" height=600px width="1250px">-
 
 ## 🗂️ Files Included
 
