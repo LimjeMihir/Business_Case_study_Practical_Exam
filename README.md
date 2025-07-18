@@ -93,14 +93,6 @@ It provides key business insights into flight frequency, profitability, route ef
 
 ---
 
-## 🔄 Suggested Improvements
-
-- Add **delay, fuel cost, and cancellation rate** fields for deeper operational KPIs
-- Integrate with **real-time data** (e.g., API or automated refresh in Power BI Service)
-- Expand `AirportCountry` mapping to global level for better classification
-
----
-
 ## 👨‍💻 Author
 
 **Mihir Limje**  
